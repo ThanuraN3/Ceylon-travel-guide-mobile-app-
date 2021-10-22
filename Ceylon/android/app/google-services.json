@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751595379756",
+    "project_id": "ceylon-f9393",
+    "storage_bucket": "ceylon-f9393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751595379756:android:1635b6a663a6cfcd9ec589",
+        "android_client_info": {
+          "package_name": "com.ceylon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751595379756-ued26gund7klvnksph0egckduuvngah8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WX4XEiHoF3GsjkNoSw4ZB_2_TVhhqUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751595379756-ued26gund7klvnksph0egckduuvngah8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
